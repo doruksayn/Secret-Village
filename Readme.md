@@ -10,7 +10,7 @@ Secret Village
 </tr>
 </thead>
 </table></markdown-accessiblity-table>
-<a href='https://postimg.cc/MftkR738' target='_blank'><img src='https://i.postimg.cc/MftkR738/Opening-Sceen.png' border='0' alt='Opening-Sceen'/></a>
+<a href="https://ibb.co/7586CqV"><img src="https://i.ibb.co/bZq8mkL/Giri-Ekran.png" alt="Giri-Ekran" border="0"></a>
 <h2>Getting Started</h2>
 <b></b>
 Follow the below instructions to get started with Abandoned Lands source code:
