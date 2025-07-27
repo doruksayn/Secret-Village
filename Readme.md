@@ -28,7 +28,7 @@ Follow the below instructions to get started with Abandoned Lands source code:
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Download</h2><a id="user-content-download" class="anchor" aria-label="Permalink: Download" href="#download"></a></div>
 You can get access to Abandoned Lands source code by using one of the following ways:
 <ul dir="auto">
-<li><a href="">✨ Download Source Code</a></li>
+<li><a href="https://github.com/doruksayn/Secret-Village/archive/refs/heads/main.zip">✨ Download Source Code</a></li>
 <li>Clone the repository locally:</li>
 </ul>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/doruksayn/Secret-Village.git</pre><div class="zeroclipboard-container"><clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/doruksayn/Secret-Village.git" tabindex="0" role="button"></clipboard-copy></div></div>
