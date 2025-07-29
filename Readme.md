@@ -26,7 +26,7 @@ Follow the below instructions to get started with Secret Village source code:
 <li>Basic Knowledge about Unity and C#</li>
 </ul>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Download</h2><a id="user-content-download" class="anchor" aria-label="Permalink: Download" href="#download"></a></div>
-You can get access to Abandoned Lands source code by using one of the following ways:
+You can get access to Secret Village source code by using one of the following ways:
 <ul dir="auto">
 <li><a href="https://github.com/doruksayn/Secret-Village/archive/refs/heads/main.zip">✨ Download Source Code</a></li>
 <li>Clone the repository locally:</li>
