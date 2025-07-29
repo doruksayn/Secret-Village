@@ -13,7 +13,7 @@ Secret Village
 <a href="https://ibb.co/0jjYfFbz"><img src="https://i.ibb.co/VWWMvQ4k/Opening-Sceen.png" alt="Opening-Sceen" border="0"></a>
 <h2>Getting Started</h2>
 <b></b>
-Follow the below instructions to get started with Abandoned Lands source code:
+Follow the below instructions to get started with Secret Village source code:
 <ol dir="auto">
 <li><a href="#requirements">Make sure you have all Requirements</a></li>
 <li><a href="#download">Download Source Code</a></li>
