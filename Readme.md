@@ -10,7 +10,7 @@ Secret Village
 </tr>
 </thead>
 </table></markdown-accessiblity-table>
-<a href="https://ibb.co/0jjYfFbz"><img src="https://i.ibb.co/VWWMvQ4k/Opening-Sceen.png" alt="Opening-Sceen" border="0"></a>
+<img src="Images/Opening-Sceen.png" alt="Opening Scene">
 <h2>Getting Started</h2>
 <b></b>
 Follow the below instructions to get started with Secret Village source code:
@@ -34,20 +34,20 @@ You can get access to Secret Village source code by using one of the following w
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/doruksayn/Secret-Village.git</pre><div class="zeroclipboard-container"><clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/doruksayn/Secret-Village.git" tabindex="0" role="button"></clipboard-copy></div></div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Screenshots</h2><a id="user-content-screenshots" class="anchor" aria-label="Permalink: Screenshots" href="#screenshots"></a></div>
 <h3>Collectibles</h3>
-<a href="https://ibb.co/KxdLnQM9"><img src="https://i.ibb.co/3m2MK8D0/Collectibles.png" alt="Collectibles" border="0"></a>
+<img src="Images/Collectibles.png" alt="Collectibles" width="640" height="300">
 <u1>
 <li><b>Bullet:</b> Allows you to increase your bullet.</li>
 <li><b>Health:</b> Allows you to regenerate health.</li>
 <li><b>Flower:</b> Activates a hidden feature 💎</li>
 </u1>
 <h3>Enemies</h3>
-<a href="https://ibb.co/R4GpV67r"><img src="https://i.ibb.co/n8qs51Rd/Enemies.png" alt="Enemies" border="0"></a>
+<img src="Images/Enemies.png" alt="Enemies" width="640" height="300">
 <u1>
 <li><b>Ranged:</b> It starts firing from a distance, when you entered its range.</li>
 <li><b>Melee:</b> It starts to attack and follow, when you entered its range.</li>
 </u1>
 <h3>Upgrades</h3>
-<a href="https://ibb.co/NfhrCW2"><img src="https://i.ibb.co/vf5hqL4/Upgrades.png" alt="Upgrades" border="0"></a>
+<img src="Images/Upgrades.png" alt="Upgrades" width="640" height="300">
 <u1>
 <li><b>Weapon:</b> It enhances your weapon, increasing its fire rate and ammo capacity.</li>  
 <li><b>Shield:</b> It prevents you from taking damage once.</li>
@@ -55,7 +55,7 @@ You can get access to Secret Village source code by using one of the following w
 </u1>
 <b>NOTE: To earn money, you need to kill enemies or complete special events.</b>
 <h3>Boss</h3>
-<a href="https://ibb.co/Mx53NNtc"><img src="https://i.ibb.co/5gxfccSr/Boss.png" alt="Boss" border="0"></a>
+<img src="Images/Boss.png" alt="Boss" width="640" height="300">
 <br>
 <b>NOTE: It has 2 different phases you need to figure out.</b>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Credits</h2><a id="user-content-credits" class="anchor" aria-label="Permalink: Credits" href="#credits"></a></div>
@@ -66,5 +66,6 @@ You can get access to Secret Village source code by using one of the following w
 <br>
 <p dir="auto">Made with ❤️ by <a href="https://github.com/doruksayn">doruksayn</a></p>
 <p dir="auto">You can support by following me, thank you!</p>
+
 
 
