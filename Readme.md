@@ -1,6 +1,6 @@
 Secret Village
 ----------------
-<p>Secret Village is a 3D FPS Shooter Game<p>
+<p>Secret Village is a 3D FPS Game<p>
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
@@ -66,6 +66,7 @@ You can get access to Secret Village source code by using one of the following w
 <br>
 <p dir="auto">Made with ❤️ by <a href="https://github.com/doruksayn">doruksayn</a></p>
 <p dir="auto">You can support by following me, thank you!</p>
+
 
 
 
